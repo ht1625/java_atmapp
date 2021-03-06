@@ -30,6 +30,6 @@ abstract class dönüsüm{
         } else {
             return Double.valueOf(temp);
         }
-}
+    }
 }
 
